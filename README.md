@@ -30,4 +30,16 @@
 
 <img src="https://github.com/Tripati3000/static-ANALYSIS/assets/160244601/d4f6e15c-47e4-4426-bca8-629000bf29fc" height="80%" width="80%" alt="SIEM System steps"/>
 
+# Packing
+
+**Packing in malware is like wrapping it up in layers of disguise to make it harder for security tools to detect. It's a bit like putting a fancy cover on a book to hide its real content. The packed malware looks harmless at first glance, but once it's opened, its true harmful nature is revealed. It was attackers technique to hide files. neither any virustotal or any websites cannot detect it.**
+
+**There are some popular packers like**
+
+- UPX (Ultimate Packer for eXecutables)
+- PE compact
+- Themida
+- VM protect
+- Armadillo
+
 
