@@ -22,6 +22,8 @@
 
 <img src="https://github.com/Tripati3000/Malware-ANALYSIS/assets/160244601/487f8590-243d-42ed-b54e-db6392019f21" height="80%" width="80%" alt="SIEM System steps"/>
 
+- If you want to search something like strings in malware file or anything you can use [bintext] (You can download the raw file from my repository)
+
 <img src="https://github.com/Tripati3000/Malware_analysislab/assets/160244601/c94db1c2-41ea-4148-9bf4-4564ee2ca201" height="80%" width="80%" alt="SIEM System steps"/>
 
 
