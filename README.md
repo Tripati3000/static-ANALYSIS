@@ -8,21 +8,23 @@
 
 # Checking file is which type of malware like trojan,virus or something else
 
-- **Open [Hashmyfiles](https://github.com/Tripati3000/Malware-ANALYSIS/blob/main/hashmyfiles-x64.zip)**
+# Open [Hashmyfiles](https://github.com/Tripati3000/Malware-ANALYSIS/blob/main/hashmyfiles-x64.zip)
 
-- **Drag and put the file on it👇 and copy🔗 the given line👍**
+# Drag and put the file on it👇 and copy🔗 the given line👍
 
 <img src="https://github.com/Tripati3000/Malware-ANALYSIS/assets/160244601/ffe2d66d-0bfe-4463-b6ca-46781073fed2" height="80%" width="80%" alt="SIEM System steps"/>
 
-- **After Copy the line 🔗 Paste it on [virustotal](https://www.virustotal.com/gui/) in browser**
+# After Copy the line 🔗 Paste it on [virustotal](https://www.virustotal.com/gui/) in browser
 
 <img src="https://github.com/Tripati3000/Malware-ANALYSIS/assets/160244601/0f91512b-0aef-402b-9b7d-6a8f5e27fd26" height="80%" width="80%" alt="SIEM System steps"/>
 
--  **It shows malware file details👍**
+# It shows malware file details👍
 
 <img src="https://github.com/Tripati3000/Malware-ANALYSIS/assets/160244601/487f8590-243d-42ed-b54e-db6392019f21" height="80%" width="80%" alt="SIEM System steps"/>
 
-- If you want to search something like strings in malware file or anything you can use [bintext] (You can download the raw file from my repository)
+# If you want to search something like strings in malware file or anything you can use [bintext](https://github.com/Tripati3000/static-ANALYSIS/blob/main/bintext303.zip) (You can download the raw file from my added files)
+
+- **Drag the file paste it here 👇 and you can search whatever you want yo know👍**
 
 <img src="https://github.com/Tripati3000/Malware_analysislab/assets/160244601/c94db1c2-41ea-4148-9bf4-4564ee2ca201" height="80%" width="80%" alt="SIEM System steps"/>
 
