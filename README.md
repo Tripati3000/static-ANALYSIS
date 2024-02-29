@@ -63,7 +63,7 @@
 
 **Now you are in malware folder so run `ls`**
 
-**Copy and paste filename or type ( `upx -d -o` newfilename filename  )**
+**Copy and paste filename or type ( `upx -d -o` newfilename filename  ) and RUN it**
 - `-d` for making changes
 - `-o` for output 
 
