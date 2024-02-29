@@ -1,5 +1,5 @@
 
-# STATIC ANALYSIS 👍
+# HANDS ON STATIC ANALYSIS 🧑‍💻
 - Get Malware samples which you want and download it (Go snd copy paste it to browser to download) - [Malware](https://urlhaus.abuse.ch/browse/)
 - Download [HXD](https://github.com/Tripati3000/Malware-ANALYSIS/blob/main/HxDSetup.zip) to configure the keywrods and paste the malware file on it. 
 - Find keywords - **4D,5A,MZ,This program cannot be run on DOS mode**
@@ -41,17 +41,36 @@
 - Themida
 - VM protect
 - Armadillo
+- 
 
 # Lets Know how we can do it 
 
-**Encode** (to know what pack it uses?)
+# Encode (to know what pack it uses?)
 
 - Download exeinfo - https://exeinfo-pe.en.uptodown.com/windows
-- 
-**Drag and put it here 👇**
+
+**Drag and put it here 👇 and you can see that it is UPX**
   
-<img src="https://github.com/Tripati3000/static-ANALYSIS/assets/160244601/d4f6e15c-47e4-4426-bca8-629000bf29fc" height="80%" width="80%" alt="SIEM System steps"/>
+<img src="https://github.com/Tripati3000/static-ANALYSIS/assets/160244601/48154232-6142-4ab7-88ec-9677b84ce36b" height="80%" width="80%" alt="SIEM System steps"/>
 
-**Download cmder - https://cmder.app/
+# Decode (making unpack and spot difference)
 
-**Change the directory 
+**Download cmder - https://cmder.app/**
+
+**Run `ls`**
+
+**Open the folder were you saved malware file `cd malware`**
+
+**Now you are in malware folder so run `ls`**
+
+**Copy and paste your file here and type ( `upx -d -o` newfilename filename  )**
+- `-d` for making changes
+- `-o` for output 
+
+**After that file will be changed and they are same but you can spot the difference by the file size like**
+
+- (Same file name)packed malware file = 12 kb
+- (same file name)unpacked malware file = 54 kb
+
+
+
