@@ -24,8 +24,10 @@
 
 # If you want to search something like strings in malware file or anything you can use [bintext](https://github.com/Tripati3000/static-ANALYSIS/blob/main/bintext303.zip) (You can download the raw file from my added files)
 
+- **Install it and open it up👇**
+
 - **Drag the file paste it here 👇 and you can search whatever you want yo know👍**
 
-<img src="https://github.com/Tripati3000/Malware_analysislab/assets/160244601/c94db1c2-41ea-4148-9bf4-4564ee2ca201" height="80%" width="80%" alt="SIEM System steps"/>
+<img src="https://github.com/Tripati3000/static-ANALYSIS/assets/160244601/d4f6e15c-47e4-4426-bca8-629000bf29fc" height="80%" width="80%" alt="SIEM System steps"/>
 
 
