@@ -72,5 +72,9 @@
 - (Same file name)packed malware file = 12 kb
 - (same file name)unpacked malware file = 54 kb
 
-
+# Results 
+- It have all these keywords **4D,5A,MZ,This program cannot be run on DOS mode** So it is a malware amd executable✅
+- if we make changes on it its still executable✅
+- It uses UPX for Packing✅
+- A malware after packing could be denoted by file size✅
 
