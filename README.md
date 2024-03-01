@@ -6,11 +6,11 @@
 - If these keywords the file may have then it is a malware because if it is any kind like Jpeg,jpg,pdf,exe or anything else these keywords are there and it means it is executable.
 - if we do any changes like making jpeg to exe or anykind of changes, the file will not change❌
 
-# Checking file is which type of malware like trojan,virus or something else
+ Checking file is which type of malware like trojan,virus or something else
 
-# Open [Hashmyfiles](https://github.com/Tripati3000/Malware-ANALYSIS/blob/main/hashmyfiles-x64.zip)
+ Open [Hashmyfiles](https://github.com/Tripati3000/Malware-ANALYSIS/blob/main/hashmyfiles-x64.zip)
 
-# Drag and put the file on it👇 and copy🔗 the given line👍
+ # Drag and put the file on it👇 and copy🔗 the given line👍
 
 <img src="https://github.com/Tripati3000/Malware-ANALYSIS/assets/160244601/ffe2d66d-0bfe-4463-b6ca-46781073fed2" height="80%" width="80%" alt="SIEM System steps"/>
 
